@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eai, seja bem vindo! 👋
 - 🌱 Atualmente estou aprendendo JavaScript, Banco de dados.
 - 👯 Estou procurando colaborar em projetos reais como trainee
 - 📫 Como entrar em contato comigo: carlos.h.nunes22@gmail.com, carlos.hns@aluno.ufop.edu.br
