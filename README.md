@@ -1,18 +1,30 @@
 ## Eai, seja bem vindo! 👋
-- 🌱 Atualmente estou aprendendo JavaScript, Banco de dados.
-- 👯 Estou procurando colaborar em projetos reais como trainee
-- 📫 Como entrar em contato comigo: carlos.h.nunes22@gmail.com, carlos.hns@aluno.ufop.edu.br
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Apaixonado pelo universo de Esports
-<!--
-**kaahbat/kaahbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Carlos Nunes
 
-- 🔭 Atualmente estou trabalhando em
-- 🌱 Atualmente estou aprendendo JavaScript, Banco de dados.
-- 👯 Estou procurando colaborar em projetos reais como trainee
-- 📫 Como entrar em contato comigo: carlos.h.nunes22@gmail.com, carlos.hns@aluno.ufop.edu.br
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Apaixonado pelo universo de Esports
--->
+Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em projetos pessoais e acadêmicos.
+
+## Sobre Mim
+- 🎓 Estudante com conhecimento em várias linguagens de programação e banco de dados.
+- 🎮 Apaixonado por Esports.
+- 🚀 Em busca de oportunidades de trainee.
+
+## Habilidades Técnicas
+- Linguagens de Programação: C, C++, Java, Python, JavaScript
+- Banco de Dados: SQL
+- Programação Orientada a Objetos (POO)
+- Engenharia de Software 
+
+
+## Interesses
+- Desenvolvimento de Software
+- Esports
+- Aprendizado Contínuo
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/carlos-n22/)
+- Email: carlos.hns@aluno.ufop.edu.br, carlos.h.nunes22@gmail.com
+
+---
+
+Obrigado por visitar meu perfil!
