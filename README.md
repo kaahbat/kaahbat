@@ -19,7 +19,7 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 ## Interesses
 - Desenvolvimento de Software
 - Esports
-- Aprendizado Contínuo
+
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/carlos-n22/)
