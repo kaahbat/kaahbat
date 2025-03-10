@@ -9,6 +9,7 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 - 🎮 Apaixonado por Esports.
 - 🚀 Em busca de oportunidades de trainee.
 
+
 ## Habilidades Técnicas
 - Linguagens de Programação: C, C++, Java, Python, JavaScript
 - Banco de Dados: SQL
@@ -19,6 +20,9 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 ## Interesses
 - Desenvolvimento de Software
 - Esports
+
+## Linguagens Utilizadas
+![Linguagens](https://img.shields.io/github/languages/top/kaahbat/seu-repositorio)
 
 
 ## Contato
