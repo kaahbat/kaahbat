@@ -22,7 +22,7 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 - Esports
 
 ## Linguagens Utilizadas
-![Linguagens](https://img.shields.io/github/languages/top/kaahbat/seu-repositorio)
+![Linguagens](https://img.shields.io/github/languages/top/kaahbat)
 
 
 ## Contato
