@@ -11,10 +11,14 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 
 
 ## Habilidades Técnicas
-- Linguagens de Programação: C, C++, Java, Python, JavaScript
-- Banco de Dados: SQL
-- Programação Orientada a Objetos (POO)
-- Engenharia de Software 
+
+Front-End: React , JavaScript, TypeScript , HTML , CSS, Tailwind CSS
+Back-End: Node.js, APIs REST, Python , Java,  C , C++ 
+Banco de Dados: PostgreSQL, MySQL
+Testes e Qualidade: Selenium, Cucumber, Testes de Integração e Funcionais , SonarQube
+Ferramentas e DevOps: Git, GitLab (CI/CD), Docker, Jira
+Metodologias: Scrum, BDD (Behavior Driven Development)
+
 
 
 ## Interesses
@@ -22,7 +26,7 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 - Esports
 
 ## Linguagens Utilizadas
-![TLinguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=kaahbat)
+![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=kaahbat&layout=compact)
 
 
 
