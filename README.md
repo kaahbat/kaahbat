@@ -22,7 +22,7 @@ Olá! Eu sou o Carlos Nunes, um entusiasta de tecnologia com experiência em pro
 - Esports
 
 ## Linguagens Utilizadas
-![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=kaahbat&layout=compact)
+![TLinguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=kaahbat)
 
 
 
